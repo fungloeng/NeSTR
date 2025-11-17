@@ -1,6 +1,6 @@
-# NeSTR (Anonymous Submission)
+# NeSTR
 
-This repository contains code and data for our anonymous AAAI submission.
+NeSTR: A Neuro-Symbolic Abductive Framework for Temporal Reasoning in Large Language Models
 
 ## Files
 
@@ -32,6 +32,4 @@ Plot attention flow:
 python Information_Flow/plot_attention_flows.py --f_name example --flows ca cq
 ```
 
-## Notes
 
-- This repository is anonymized for blind review.
